@@ -1,4 +1,9 @@
-## Hi there 👋
+<div align="center">
+<img width="256" src="https://github.com/Redesigned-Pancake-Studios/.github/blob/main/assets/Logo.png" alt="Logo">
+
+# Hi there 👋
+
+</div>
 
 We're just a group of people who want to make some cool things online.
 
